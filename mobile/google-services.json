@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "33266835235",
+    "firebase_url": "https://gaaref-ae25d-default-rtdb.firebaseio.com",
+    "project_id": "gaaref-ae25d",
+    "storage_bucket": "gaaref-ae25d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33266835235:android:cca194b65093cd79b0f696",
+        "android_client_info": {
+          "package_name": "org.wit.gaaref"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33266835235-mq15sk9d57e211tejgo38ocihoesfte7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCipvPt4XP0mcmIMyjMnzW4SHWGrrKFJAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33266835235-6nkf0l2tsdk3cqnjfhh8s5nfmvkbedkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33266835235:android:1ecedec976cdd774b0f696",
+        "android_client_info": {
+          "package_name": "org.wit.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33266835235-mq15sk9d57e211tejgo38ocihoesfte7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCipvPt4XP0mcmIMyjMnzW4SHWGrrKFJAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33266835235-6nkf0l2tsdk3cqnjfhh8s5nfmvkbedkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
